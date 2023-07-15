@@ -1,7 +1,7 @@
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-
+VISIT THE WEBSITE..... CLICK ==> https://ahmad-maaz1.github.io/TinDop-LandingPage/
 ## SVGs:
 
 Apple Logo:
